@@ -1,0 +1,37 @@
+_repo: My-Recollections_36728
+_version: 0.1.0
+alternative_title: Mes souvenirs. English
+contributor:
+  translator:
+    agent_name: Barnett, H. Villiers
+    gutenberg_agent_id: '38446'
+    url: http://www.gutenberg.org/2009/agents/38446
+covers:
+- cover_type: archival
+  image_path: 36728-h/images/ill_cover_lg.jpg
+creator:
+  author:
+    agent_name: Massenet, Jules
+    alias: Massenet, J. (Jules)
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '38445'
+    url: http://www.gutenberg.org/2009/agents/38445
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Massenet
+    - http://en.wikipedia.org/wiki/Jules_Massenet
+description: ''
+gutenberg_issued: '2011-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- France -- Biography'
+- !lcc 'ML'
+- !lcsh 'Massenet, Jules, 1842-1912'
+title: My Recollections
+url: http://www.gutenberg.org/ebooks/36728
